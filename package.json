@@ -25,5 +25,13 @@
   },
   "dependencies": {
     "@tedstoychev/request": "0.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedstoychev/lucid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tedstoychev/lucid/issues"
+  },
+  "homepage": "https://github.com/tedstoychev/lucid#readme"
 }
